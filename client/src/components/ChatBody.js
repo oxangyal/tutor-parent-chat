@@ -59,9 +59,9 @@ const ChatBody = ({ messages }) => {
                 </div> */}
 
                 {/* This is triggered when a user is typing */}
-                <div className="message__status">
+                {/* <div className="message__status">
                     <p>Someone is typing...</p>
-                </div>
+                </div> */}
             </div>
         </>
     );
